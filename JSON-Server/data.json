@@ -1,0 +1,52 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "date": "Mon Jan 29 2024 19:43:23 GMT+0530 (India Standard Time)",
+      "title": "School Fees",
+      "amount": "2000"
+    },
+    {
+      "id": "2",
+      "title": "books",
+      "date": "Mon Jan 29 2024 19:43:23 GMT+0530 (India Standard Time)",
+      "amount": "100"
+    },
+    {
+      "id": "3",
+      "date": "Mon Jan 29 2024 19:43:23 GMT+0530 (India Standard Time)",
+      "title": "Movie",
+      "amount": "500"
+    },
+    {
+      "id": "4",
+      "date": "Mon Jan 29 2024 19:43:23 GMT+0530 (India Standard Time)",
+      "title": "Shopping",
+      "amount": "1000"
+    },
+    {
+      "id": "5",
+      "title": "purchase bag",
+      "date": "Mon Jan 29 2024 19:43:23 GMT+0530 (India Standard Time)",
+      "amount": "1000"
+    },
+    {
+      "id": "de70",
+      "title": "Movie",
+      "date": "2024-01-31T00:00:00.000Z",
+      "amount": "500"
+    },
+    {
+      "id": "a131",
+      "title": "Movie",
+      "date": "2024-01-27T00:00:00.000Z",
+      "amount": "1200"
+    },
+    {
+      "id": "aed5",
+      "title": "Movie",
+      "date": "2024-01-03T00:00:00.000Z",
+      "amount": "12121"
+    }
+  ]
+}

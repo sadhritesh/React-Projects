@@ -1,0 +1,51 @@
+✅Video - 2:
+
+npm - node package manager
+npx - node package executer 
+
+npm create react-app : isse jo project bannte he wo thode bulky hote he 
+npm create vite@latest : isse jo project bannte he wo light hote he i.e isme preinsallted packages kaam hote 
+
+✅Video - 3:
+
+components filename should be  and function name must be start with capital letter.
+
+<></> : is used to bundle multiple tags , it called fragment.
+
+✅Video - 4:
+
+Skipped....
+
+✅Video - 5:
+
+https://www.freecodecamp.org/news/react-hooks-fundamentals/
+
+-Hooks : Hooks are built-in React functions introduced in React version 16.8. They allow you to use features of the React library like lifecycle methods, state, and context in functional components.
+
+-React follows the principle of component-based architecture. A component in React is an isolated and reusable piece of code. The components can be of two types – class components and functional components.
+
+✅Video - 6: 
+
+✅Video - 7:
+
+TailwindCSS and Props:
+
+Props : https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/
+
+Props simply stands for properties. They are what make components reusable. Because they perform an essential function – they pass data from one component to another.  
+
+Props act as a channel for component communication. Props are passed from parent to child and help your child access properties.
+
+✅Video - 8:
+
+
+In React, when you are using the useState hook to update the state, there are two common ways to update the state based on the previous state. The difference lies in how they handle asynchronous updates and potential issues with stale state.
+
+1. Using the Previous State Value Directly:
+-setCounter(counter + 1);
+
+
+2. Using the Functional Update Form:
+-setCounter(prevCounter => prevCounter + 1);
+
+ 

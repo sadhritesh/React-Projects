@@ -3,7 +3,7 @@ import Button from "./Button";
 
 
 function BackGround(){
-    const [color,setColor] = useState("red")
+    const [color,setColor] = useState("olive")
 
     const divStyle = {
         backgroundColor : color,

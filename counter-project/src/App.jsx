@@ -9,6 +9,11 @@ function App() {
   const addHandler = () =>{
     if (count < 20){
       setCount(count+1);
+      setCount(count+1);
+      setCount(count+1);
+      setCount(count+1);
+      setCount(count+1);
+      setCount(count+1);
     }
   }
   const subHandler = () =>{
