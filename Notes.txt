@@ -48,4 +48,19 @@ In React, when you are using the useState hook to update the state, there are tw
 2. Using the Functional Update Form:
 -setCounter(prevCounter => prevCounter + 1);
 
- 
+✅Video - 11:
+
+//In Js, function have composability: means a function can have a function inside it 
+
+//In ReactJs, components are plian old Js Functions(w.r.t. fucntional components)
+
+
+//Statefull component : a component which is managing some its own states or interaction with db or apis
+
+//Stateless component:
+-In react, a component should have minimum side effects, but in reality we need functionality like on clicking the content should , or fetching the data which are the kind of side-effects.
+//So to achieve stateless component , the statefull logic is kept into another functions or another components.That another functions or components is called hooks 
+//hooks can be reused 
+//for example, side effects code like data fetching , db searching, logging into the console . These logics can be keep into another function(hooks)
+
+✅React hooks are simple fucntions that we can use to separate out the reusable part from a function.It can be stateful and can manage side effects!!

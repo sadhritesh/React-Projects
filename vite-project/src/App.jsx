@@ -1,7 +1,7 @@
-
+import Test from "./Test.jsx"
 
 function App() {
-  return (<h2>Ram Ram Bhai | Ritesh Sadh</h2>);
+  return (<Test />);
 }
 
 export default App
