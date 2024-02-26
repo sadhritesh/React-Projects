@@ -1,0 +1,7 @@
+.github{
+    background-color: beige;
+    height: 71vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

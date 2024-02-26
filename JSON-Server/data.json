@@ -48,5 +48,13 @@
       "date": "2024-01-03T00:00:00.000Z",
       "amount": "12121"
     }
+  ],
+  "users": [
+
+    {
+      "id": "30d3",
+      "username": "Ritesh Sadh",
+      "password": "12345"
+    }
   ]
 }

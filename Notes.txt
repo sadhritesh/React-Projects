@@ -4,7 +4,7 @@ npm - node package manager
 npx - node package executer 
 
 npm create react-app : isse jo project bannte he wo thode bulky hote he 
-npm create vite@latest : isse jo project bannte he wo light hote he i.e isme preinsallted packages kaam hote 
+npm create vite@latest : isse jo project bannte he wo lite hote he i.e isme preinsallted packages kaam hote 
 
 ✅Video - 3:
 
@@ -64,3 +64,8 @@ In React, when you are using the useState hook to update the state, there are tw
 //for example, side effects code like data fetching , db searching, logging into the console . These logics can be keep into another function(hooks)
 
 ✅React hooks are simple fucntions that we can use to separate out the reusable part from a function.It can be stateful and can manage side effects!!
+
+✅Video - 13:
+
+Prop drilling - 
+https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/
